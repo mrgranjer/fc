@@ -2,3 +2,8 @@
 http://www.brgames.org/tutoriais.php
 
 https://www.pacificsimplicity.ca/blog/simple-read-configuration-file-struct-example
+
+http://stackoverflow.com/questions/9719140/c-read-value-from-config-file
+
+http://www.cprogressivo.net/2013/11/Como-ler-arquivos-em-C-As-funcoes-fgetc-fscanf-fgets.html
+
