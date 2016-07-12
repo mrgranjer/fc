@@ -1,0 +1,4 @@
+
+http://www.brgames.org/tutoriais.php
+
+https://www.pacificsimplicity.ca/blog/simple-read-configuration-file-struct-example
